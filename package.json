@@ -1,0 +1,11 @@
+{
+  "name":"升级包",
+  "tag":"v1.0.0",
+  "cn.magicmind.frame3.launcher": {
+    "level": 1,
+    "downloadUrl": "/apks/apk_1.5.1.7z",
+    "version": "1.5.1",
+    "size": 30870137,
+    "hash": "e896ac7996c9e23f704c626fd79ee4f8"
+  }
+}
