@@ -1,6 +1,6 @@
 {
   "name":"升级包",
-  "tag":"v1.0.0",
+  "tag":"v1.0.1",
   "cn.magicmind.frame3.launcher": {
     "level": 1,
     "downloadUrl": "/apks/apk_1.5.1.7z",
